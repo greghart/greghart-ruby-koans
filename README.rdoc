@@ -6,6 +6,12 @@ functions and libraries. We also teach you culture by basing the koans on tests.
 Testing is not just something we pay lip service to, but something we
 live.  Testing is essential in your quest to learn and do great things in Ruby.
 
+== Greg Hart's Answers
+
+For posterity I've posted my answers to the Ruby Koans here. If you're looking at this,
+feel free to check my answers on the open questions, but you're probably _not_ looking
+at this, let's be honest.
+
 == The Structure
 
 The koans are broken out into areas by file, hashes are covered in +about_hashes.rb+,
